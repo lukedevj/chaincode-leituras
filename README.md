@@ -24,4 +24,26 @@
     - [6.5 - SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/)
     - [6.6 - Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/)
  
- 
+# Quarta semana
+
+  - [1 - Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc)
+  - [2 - Advances in Block Propagation](https://btctranscripts.com/greg-maxwell/gmaxwell-2017-11-27-advances-in-block-propagation/)
+  - [3 - Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/)
+  - [4 - Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/)
+  - [5 - Mining: No Good, THe Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k)
+  - [6 - Mining pool reward FAQ](https://en.bitcoin.it/wiki/Mining_pool_reward_FAQ)
+  - [7 - Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/)
+  - [8 - Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf)
+  - [9 - Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet)
+  - [10 - Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
+
+# Quinta Semana
+
+  - [1 - Attacking p2p of Bitcoin Core](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)
+  - [2 - The Bitcoin p2p Network](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/)
+  - [3 - The Bitcoin Network in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery)
+  - [4 - Network Partition Resistence](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0)
+  - [5 - Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf)
+  - [6 - Network Partioning & Network Level Privacy Attacks](http://btctranscripts.com/chaincode-labs/2019-06-12-ethan-heilman-network-partitioning-attacks/)
+  - [7 - Researching P2P Privacy Attacks](https://youtu.be/qKNEUfnYue0)
+
